@@ -179,8 +179,12 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
 
 ## Output screen shots of proteus  :
  
- 
+ ![pmc ex044](https://github.com/user-attachments/assets/ffa613f5-9ee9-4ca4-a785-11f1a82e364a)
+
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
+
+ ![image](https://github.com/user-attachments/assets/00c4347a-1ff3-4993-98a6-17322e0ed388)
+
  
  
 ## Result :
