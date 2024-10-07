@@ -412,7 +412,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 ![pmc_ex4_before](https://github.com/user-attachments/assets/6f8b39b7-5b4a-4121-9ffc-46a3b050eed1)
 
 ### AFTER 
-![pmc_ex4](https://github.com/user-attachments/assets/95437f89-7be1-41c4-b403-114aeb7b79ef)
+![pmc ex044](https://github.com/user-attachments/assets/bc486d0c-1152-4496-9b04-bbfd9efc7402)
 
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
  ![image](https://github.com/user-attachments/assets/482a731e-93aa-4a04-b926-17d478304ee6)
